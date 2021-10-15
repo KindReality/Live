@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MCqJxyzhBqtXMGhtSMQLHrIpllVO4Ih3qnLNiZ9U8NictMwof8O32Xmx4eMNMbrXUfA+iVLrU+Ke2yNT+XTS8g==",
+  "dgSpecHash": "7ofhpxAr0WHVUTnk/BWXOCq10m2kV2ERsFAE7RGbgAw1qu9/q4LVglJPt2NoRxN3NGZ+JaAcKEP1x/30iQtHkA==",
   "success": true,
-  "projectFilePath": "D:\\Source\\Repos\\Live\\Live\\Windows\\Windows.csproj",
+  "projectFilePath": "C:\\Users\\KindR\\OneDrive\\GitHub\\Live\\Live\\Windows\\Windows.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\micha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+    "C:\\Users\\KindR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
   ],
   "logs": []
 }
