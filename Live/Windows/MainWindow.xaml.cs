@@ -26,7 +26,7 @@ namespace Windows
         public MainWindow()
         {
             InitializeComponent();
-            serialPort = new SerialPort("COM42");
+            serialPort = new SerialPort("COM11");
             serialPort.DataReceived += SerialPort_DataReceived;
             serialPort.ErrorReceived += SerialPort_ErrorReceived;
             serialPort.Open();
