@@ -4,7 +4,8 @@ void setup() {
 
 void loop() {
   int sensorValue = analogRead(9);
-  sensorValue = map(sensorValue, 525, 230, 0, 100);
+  //Serial.println(sensorValue);
+  sensorValue = map(sensorValue, 555, 230, 0, 100);
   if (sensorValue < 0)
   {
     sensorValue = 0;

@@ -5,8 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Windows"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="" Height="80" Width="200">
     <Grid>
+        <TextBlock x:Name="tbSensor1" Text="" TextWrapping="Wrap" Margin="10"/>
 
     </Grid>
 </Window>
+
+    
+    

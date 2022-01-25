@@ -1,20 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "8qlVJMnNDzDX4PeHSf5UEUFh1AEulGMxdjMYMP923pmBs/volTnGdTI6gXsyMP54YBHpnOQ8C/BgjOBdzVgrTg==",
+  "dgSpecHash": "Q86GhBE9D3SE3p2044ypjbDnWq2RWROcIjkY7RWhXXGcgrqpnjAD4CdsZ8Wab4209YQg+hQkjmRfC26ECXtrRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KindR\\OneDrive\\GitHub\\Live\\Live\\Windows\\Windows.csproj",
+  "projectFilePath": "D:\\Source\\Repos\\Live\\Live\\Windows\\Windows.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\KindR\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
-    "C:\\Users\\KindR\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
-    "C:\\Users\\KindR\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\5.0.0\\runtime.linux-arm.runtime.native.system.io.ports.5.0.0.nupkg.sha512",
-    "C:\\Users\\KindR\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\5.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.5.0.0.nupkg.sha512",
-    "C:\\Users\\KindR\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\5.0.0\\runtime.linux-x64.runtime.native.system.io.ports.5.0.0.nupkg.sha512",
-    "C:\\Users\\KindR\\.nuget\\packages\\runtime.native.system.io.ports\\5.0.1\\runtime.native.system.io.ports.5.0.1.nupkg.sha512",
-    "C:\\Users\\KindR\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\5.0.0\\runtime.osx-x64.runtime.native.system.io.ports.5.0.0.nupkg.sha512",
-    "C:\\Users\\KindR\\.nuget\\packages\\system.io.ports\\5.0.1\\system.io.ports.5.0.1.nupkg.sha512",
-    "C:\\Users\\KindR\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
-    "C:\\Users\\KindR\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
-    "C:\\Users\\KindR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\5.0.0\\runtime.linux-arm.runtime.native.system.io.ports.5.0.0.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\5.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.5.0.0.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\5.0.0\\runtime.linux-x64.runtime.native.system.io.ports.5.0.0.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\runtime.native.system.io.ports\\5.0.1\\runtime.native.system.io.ports.5.0.1.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\5.0.0\\runtime.osx-x64.runtime.native.system.io.ports.5.0.0.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\system.io.ports\\5.0.1\\system.io.ports.5.0.1.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
